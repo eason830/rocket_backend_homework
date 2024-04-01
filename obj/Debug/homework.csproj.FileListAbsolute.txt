@@ -1,0 +1,7 @@
+C:\Users\Eason\Desktop\c_sharp\homework_rocket_backend\homework\bin\Debug\homework.exe.config
+C:\Users\Eason\Desktop\c_sharp\homework_rocket_backend\homework\bin\Debug\homework.exe
+C:\Users\Eason\Desktop\c_sharp\homework_rocket_backend\homework\bin\Debug\homework.pdb
+C:\Users\Eason\Desktop\c_sharp\homework_rocket_backend\homework\obj\Debug\homework.csproj.AssemblyReference.cache
+C:\Users\Eason\Desktop\c_sharp\homework_rocket_backend\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+C:\Users\Eason\Desktop\c_sharp\homework_rocket_backend\homework\obj\Debug\homework.exe
+C:\Users\Eason\Desktop\c_sharp\homework_rocket_backend\homework\obj\Debug\homework.pdb
